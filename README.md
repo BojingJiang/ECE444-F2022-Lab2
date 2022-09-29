@@ -10,10 +10,6 @@ Activity 1
 
 Activity 2
 
-commit message 1: reproduce example 2-1
-
-commit message 2: reproduce example 2-2
-
 <img width="1440" alt="activity_2" src="https://user-images.githubusercontent.com/40879743/192888541-4cb5739f-280b-4eba-8650-52cbb7cc96a4.png">
 
 Activity 3
