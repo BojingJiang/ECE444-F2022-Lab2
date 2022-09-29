@@ -18,12 +18,4 @@ commit message 2: reproduce example 2-2
 
 Activity 3
 
-commit message:
-
-reproduce example 3
-
-add base.html
-
-modify example 3
-
 <img width="1440" alt="activity_3" src="https://user-images.githubusercontent.com/40879743/192902117-3dd07571-d1ee-4459-9cdb-c0b4514f4816.png">
